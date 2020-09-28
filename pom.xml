@@ -10,4 +10,7 @@
 
     <dependencies>
     </dependencies>
+    <dependencyManagement>
+
+    </dependencyManagement>
 </project>
